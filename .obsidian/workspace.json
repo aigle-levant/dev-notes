@@ -4,39 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2e82f0ed47d25e36",
-        "type": "tabs",
-        "dimension": 21.09704641350211,
-        "children": [
-          {
-            "id": "f79ac720edc6ed58",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": true,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          }
-        ]
-      },
-      {
         "id": "0529469feb6d8272",
         "type": "tabs",
-        "dimension": 78.90295358649789,
         "children": [
           {
             "id": "6f69fd5d96c8905b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Don't Make Me Think/How we really use the Web.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "How we really use the Web"
             }
           }
         ]
@@ -66,12 +49,22 @@
             }
           },
           {
+            "id": "6c852a07c54d5ea5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
             "id": "15b6db4975e5939c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,22 +74,12 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
-          {
-            "id": "6c852a07c54d5ea5",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 220.50775146484375
   },
   "right": {
     "id": "36c4af7243eaa3ba",
@@ -112,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Don't Make Me Think/Don't Make Me Think.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Don't Make Me Think"
             }
           },
           {
@@ -130,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Don't Make Me Think/Don't Make Me Think.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Don't Make Me Think"
             }
           },
           {
@@ -151,13 +136,54 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "c0d6a742ddaed53d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "427544ea549d6041",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Don't Make Me Think/How we really use the Web.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for How we really use the Web"
+            }
+          },
+          {
+            "id": "bea137c4f5772c29",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Networks/Core/Domain Name System.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Domain Name System"
+            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 272.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -165,13 +191,29 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "6f69fd5d96c8905b",
   "lastOpenFiles": [
+    "Don't Make Me Think/Don't Make Me Think.md",
+    "Don't Make Me Think/How we really use the Web.md",
+    "Networks/Core/DNS/DNS records.md",
+    "Networks/Core/DNS/DNS query.md",
+    "Networks/Core/DNS/Domain Name System.md",
+    "Networks/Core/DNS",
+    "Untitled.md",
+    "Networks/Core/Internet Protocol.md",
+    "Networks/Core/IP Address.md",
+    "Networks/Protocols",
+    "Networks/Core/DNS",
+    "Networks/Core",
+    "Networks",
+    "Pasted image 20250420194125.png",
+    "Pasted image 20250420194432.png",
+    "Don't Make Me Think",
     "Welcome.md"
   ]
 }
