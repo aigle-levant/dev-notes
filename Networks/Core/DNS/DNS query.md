@@ -6,7 +6,7 @@ tags:
 - Refer [[Domain Name System|DNS]]
 - **DNS client :** Your device
 - **DNS server :** Server that has info. about domain names and their respective IP addresses.
-**When is it done?**: Typing a domain in browser's searchbar.
+**When is it done?**: Typing a domain in browser's search-bar.
 **What is being asked?**: IP address of a particular domain.
 
 ### Types

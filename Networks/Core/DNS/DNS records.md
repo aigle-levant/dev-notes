@@ -3,11 +3,11 @@ tags:
   - dns
 ---
 **Other name**: Zone files
-They are a set of instructions stored in authoritative DNS servers.
+They are a set of instructions stored in **authoritative** DNS servers.
 **Content**:
 - Info. about IP address associated with domain
 - How to handle requests for the domain.
-- TTL
+- TTL [Time To Live]
 	- **TTL** indicates how often the DNS server will refresh that particular record.
 **Format**: Text files written in DNS syntax
 - **DNS syntax** is a string of characters telling DNS server what to do.

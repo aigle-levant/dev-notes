@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0529469feb6d8272",
+        "id": "63130a446775311a",
         "type": "tabs",
         "children": [
           {
-            "id": "6f69fd5d96c8905b",
+            "id": "c2e5438edff7ed4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Don't Make Me Think/How we really use the Web.md",
+                "file": "Networks/Core/HTTP/HTTP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "How we really use the Web"
+              "title": "HTTP"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.50775146484375
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "36c4af7243eaa3ba",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Don't Make Me Think/Don't Make Me Think.md",
+                "file": "React/Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Don't Make Me Think"
+              "title": "Backlinks for Components"
             }
           },
           {
@@ -114,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Don't Make Me Think/Don't Make Me Think.md",
+                "file": "Networks/Core/HTTP/HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Don't Make Me Think"
+              "title": "Outgoing links from HTTP"
             }
           },
           {
@@ -157,10 +158,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Don't Make Me Think/How we really use the Web.md"
+                "file": "React/Components.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for How we really use the Web"
+              "title": "File properties for Components"
             }
           },
           {
@@ -179,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,24 +197,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f69fd5d96c8905b",
+  "active": "c2e5438edff7ed4f",
   "lastOpenFiles": [
-    "Don't Make Me Think/Don't Make Me Think.md",
-    "Don't Make Me Think/How we really use the Web.md",
+    "Networks/Core/HTTP/HTTPS.md",
+    "Networks/Core/HTTP/HTTP.md",
     "Networks/Core/DNS/DNS records.md",
-    "Networks/Core/DNS/DNS query.md",
     "Networks/Core/DNS/Domain Name System.md",
-    "Networks/Core/DNS",
-    "Untitled.md",
-    "Networks/Core/Internet Protocol.md",
-    "Networks/Core/IP Address.md",
-    "Networks/Protocols",
-    "Networks/Core/DNS",
-    "Networks/Core",
-    "Networks",
-    "Pasted image 20250420194125.png",
-    "Pasted image 20250420194432.png",
-    "Don't Make Me Think",
-    "Welcome.md"
+    "Networks/Core/DNS/DNS query.md",
+    "Networks/Core/Search Engine.md",
+    "Networks/Core/HTTP",
+    "Networks/Core/Search Index.md",
+    "Networks/Core/Internet.md",
+    "Networks/Core/The Internet How Search Works.md",
+    "Clippings",
+    "React/Tic Tac Toe.md",
+    "React/Event Handling.md",
+    "React/Components.md",
+    "React/react-projects/playlist/README.md",
+    "React/react-projects/playlist/src/components/ButtonStyle.jsx",
+    "React/react-projects/playlist/src/components/ButtonStyle.js",
+    "React/react-projects/playlist/src/GlobalStyle.jsx",
+    "React/react-projects/playlist/node_modules/@types/stylis/README.md",
+    "React/react-projects/playlist/node_modules/@types/stylis/package.json",
+    "React/react-projects/playlist/node_modules/@types/stylis/LICENSE",
+    "React/react-projects/playlist/node_modules/@types/stylis/index.d.ts",
+    "React/react-projects/playlist/node_modules/@types/stylis",
+    "React/react-projects/playlist/node_modules/styled-components/test-utils/setupTestFramework.ts",
+    "React/react-projects/playlist/node_modules/css-to-react-native/LICENSE.md",
+    "React/react-projects/playlist/node_modules/css-to-react-native/README.md",
+    "React/react-projects/playlist/node_modules/shallowequal/README.md",
+    "React/react-projects/playlist/node_modules/camelize/README.md",
+    "React/react-projects/playlist/node_modules/camelize/CHANGELOG.md",
+    "React/react-projects/playlist/node_modules/color-name/README.md",
+    "React/react-projects/playlist/node_modules/argparse/README.md",
+    "React/react-projects/playlist/node_modules/argparse/CHANGELOG.md",
+    "React/react-projects/playlist/node_modules/yallist/README.md",
+    "React/react-projects/playlist/node_modules/lru-cache/README.md",
+    "React/react-projects/playlist/node_modules/node-releases/README.md",
+    "React/react-projects/playlist/node_modules/browserslist/README.md",
+    "React/react-projects/playlist/src/assets/react.svg",
+    "React/react-projects/playlist/public/vite.svg",
+    "React/react-projects/playlist/--template/src/assets/react.svg",
+    "React/react-projects/playlist/--template/public/vite.svg",
+    "React/react-projects/vite-project/src/assets/react.svg",
+    "React/react-projects/vite-project/public/vite.svg",
+    "React/practice-file/src/assets/react.svg",
+    "React/practice-file/public/vite.svg",
+    "React/react-holder/practice-file/src/assets/react.svg",
+    "React/react-holder/practice-file/public/vite.svg"
   ]
 }
