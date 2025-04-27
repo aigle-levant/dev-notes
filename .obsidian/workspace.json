@@ -11,15 +11,10 @@
             "id": "c2e5438edff7ed4f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networks/Core/HTTP/HTTP.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "HTTP"
+              "title": "New tab"
             }
           }
         ]
@@ -79,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "36c4af7243eaa3ba",
@@ -197,20 +191,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2e5438edff7ed4f",
+  "active": "abc1c9c2de927def",
   "lastOpenFiles": [
+    "ML/Maths/jupyter/week-1.ipynb",
+    "ML/Maths/jupyter/week-1",
+    "ML/Maths/jupyter",
+    "React/Tic Tac Toe.md",
+    "ML/Maths/Vectors.md",
+    "ML",
+    "ML/Maths",
+    "Networks/Core/Search Index.md",
+    "Networks/Core/Search Engine.md",
+    "Networks/Core/Internet.md",
     "Networks/Core/HTTP/HTTPS.md",
     "Networks/Core/HTTP/HTTP.md",
     "Networks/Core/DNS/DNS records.md",
     "Networks/Core/DNS/Domain Name System.md",
     "Networks/Core/DNS/DNS query.md",
-    "Networks/Core/Search Engine.md",
     "Networks/Core/HTTP",
-    "Networks/Core/Search Index.md",
-    "Networks/Core/Internet.md",
     "Networks/Core/The Internet How Search Works.md",
     "Clippings",
-    "React/Tic Tac Toe.md",
     "React/Event Handling.md",
     "React/Components.md",
     "React/react-projects/playlist/README.md",
@@ -219,10 +219,6 @@
     "React/react-projects/playlist/src/GlobalStyle.jsx",
     "React/react-projects/playlist/node_modules/@types/stylis/README.md",
     "React/react-projects/playlist/node_modules/@types/stylis/package.json",
-    "React/react-projects/playlist/node_modules/@types/stylis/LICENSE",
-    "React/react-projects/playlist/node_modules/@types/stylis/index.d.ts",
-    "React/react-projects/playlist/node_modules/@types/stylis",
-    "React/react-projects/playlist/node_modules/styled-components/test-utils/setupTestFramework.ts",
     "React/react-projects/playlist/node_modules/css-to-react-native/LICENSE.md",
     "React/react-projects/playlist/node_modules/css-to-react-native/README.md",
     "React/react-projects/playlist/node_modules/shallowequal/README.md",
@@ -233,8 +229,6 @@
     "React/react-projects/playlist/node_modules/argparse/CHANGELOG.md",
     "React/react-projects/playlist/node_modules/yallist/README.md",
     "React/react-projects/playlist/node_modules/lru-cache/README.md",
-    "React/react-projects/playlist/node_modules/node-releases/README.md",
-    "React/react-projects/playlist/node_modules/browserslist/README.md",
     "React/react-projects/playlist/src/assets/react.svg",
     "React/react-projects/playlist/public/vite.svg",
     "React/react-projects/playlist/--template/src/assets/react.svg",
