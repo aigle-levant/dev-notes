@@ -1,3 +1,6 @@
+---
+tags: [react]
+---
 # Navbar
 
 ## Simple, elegant, minimalist
