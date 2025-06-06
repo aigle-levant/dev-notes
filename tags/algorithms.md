@@ -1,9 +1,9 @@
-# Notes Tagged with `algorithms`
+# 🏷️ Algorithms Notes
 
-| Created on [YYYY-MM-DD] | title                                                                                                   | tags                                                                               |
-|-------------------------|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
-| 2025-05-01              | [Algorithms](https://github.com/aigle-levant/dev-notes/blob/main/Networks/Core/DNS/DNS%20query.md)      | [![](https://img.shields.io/badge/tag-algorithms-b4bfb)](../tags/algorithms.md.md) |
-| 2025-05-01              | [Data structures](https://github.com/aigle-levant/dev-notes/blob/main/Networks/Core/DNS/DNS%20query.md) | [![](https://img.shields.io/badge/tag-algorithms-b4bfb)](../tags/algorithms.md.md) |
-| 2025-05-02              | [Binary search](https://github.com/aigle-levant/dev-notes/blob/main/Networks/Core/DNS/DNS%20query.md)   | [![](https://img.shields.io/badge/tag-algorithms-b4bfb)](../tags/algorithms.md.md) |
-| 2025-05-02              | [Linear search](https://github.com/aigle-levant/dev-notes/blob/main/Networks/Core/DNS/DNS%20query.md)   | [![](https://img.shields.io/badge/tag-algorithms-b4bfb)](../tags/algorithms.md.md) |
-| 2025-05-05              | [Sorting](https://github.com/aigle-levant/dev-notes/blob/main/Networks/Core/DNS/DNS%20query.md)         | [![](https://img.shields.io/badge/tag-algorithms-b4bfb)](../tags/algorithms.md.md) |
+| Title | Description |
+|-------|-------------|
+| [Algorithms](Documentation/ML/Algorithms/Algorithms.md) |  |
+| [Data structures](Documentation/ML/Algorithms/Data structures.md) |  |
+| [Binary search](Documentation/ML/Algorithms/Searching/Binary search.md) |  |
+| [Linear search](Documentation/ML/Algorithms/Searching/Linear search.md) |  |
+| [Sorting](Documentation/ML/Algorithms/Sorting/Sorting.md) |  |

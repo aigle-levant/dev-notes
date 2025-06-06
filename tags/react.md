@@ -1,20 +1,25 @@
-# Notes Tagged with `react`
+# 🏷️ React Notes
 
-| Created on [YYYY-MM-DD] | title                                                                                                                                                   | tags                                                                     |
-|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| 2025-04-23              | [Components](https://github.com/aigle-levant/dev-notes/blob/main/React/Components.md)                                                                   | [![](https://img.shields.io/badge/tag-react-b4bfb)](../tags/react.md.md) |
-| 2025-04-23              | [Event Handling](https://github.com/aigle-levant/dev-notes/blob/main/React/Event%20Handling.md)                                                         | [![](https://img.shields.io/badge/tag-react-b4bfb)](../tags/react.md.md) |
-| 2025-04-23              | [Hooks](https://github.com/aigle-levant/dev-notes/blob/main/React/Hooks.md)                                                                             | [![](https://img.shields.io/badge/tag-react-b4bfb)](../tags/react.md.md) |
-| 2025-04-23              | [Props](https://github.com/aigle-levant/dev-notes/blob/main/React/Props.md)                                                                             | [![](https://img.shields.io/badge/tag-react-b4bfb)](../tags/react.md.md) |
-| 2025-04-23              | [Conditionals](https://github.com/aigle-levant/dev-notes/blob/main/React/Conditionals.md)                                                               | [![](https://img.shields.io/badge/tag-react-b4bfb)](../tags/react.md.md) |
-| 2025-04-23              | [Rendering Lists](https://github.com/aigle-levant/dev-notes/blob/main/React/State/Rendering%20Lists.md)                                                 | [![](https://img.shields.io/badge/tag-react-b4bfb)](../tags/react.md.md) |
-| 2025-05-03              | [Rendering](https://github.com/aigle-levant/dev-notes/blob/main/React/State/Rendering.md)                                                               | [![](https://img.shields.io/badge/tag-react-b4bfb)](../tags/react.md.md) |
-| 2025-05-03              | [State behavng as a snapshot](https://github.com/aigle-levant/dev-notes/blob/main/React/State/State%20behaving%20as%20a%20snapshot.md)                  | [![](https://img.shields.io/badge/tag-react-b4bfb)](../tags/react.md.md) |
-| 2025-05-03              | [Queueing a series of status updates](https://github.com/aigle-levant/dev-notes/blob/main/React/State/Queueing%20a%20series%20of%20status%20updates.md) | [![](https://img.shields.io/badge/tag-react-b4bfb)](../tags/react.md.md) |
-| 2025-05-03              | [Updating objects in state](https://github.com/aigle-levant/dev-notes/blob/main/React/State/Updating%20objects%20in%20state.md)                         | [![](https://img.shields.io/badge/tag-react-b4bfb)](../tags/react.md.md) |
-| 2025-05-03              | [Pure functions](https://github.com/aigle-levant/dev-notes/blob/main/React/State/Pure%20functions.md)                                                   | [![](https://img.shields.io/badge/tag-react-b4bfb)](../tags/react.md.md) |
-| 2025-05-04              | [Reacting to input with state](https://github.com/aigle-levant/dev-notes/blob/main/React/State/Pure%20functions.md)                                     | [![](https://img.shields.io/badge/tag-react-b4bfb)](../tags/react.md.md) |
-| 2025-05-08              | [Input in React](https://github.com/aigle-levant/dev-notes/blob/main/React/State/Input%20in%20React.md)                                                 | [![](https://img.shields.io/badge/tag-react-b4bfb)](../tags/react.md.md) |
-| 2025-05-21              | [Structuring state](https://github.com/aigle-levant/dev-notes/blob/main/React/State/Structuring%20state.md)                                             | [![](https://img.shields.io/badge/tag-react-b4bfb)](../tags/react.md.md) |
-| 2025-06-05              | [Sharing state](https://github.com/aigle-levant/dev-notes/blob/main/React/State/Sharing%20state.md)                                                     | [![](https://img.shields.io/badge/tag-react-b4bfb)](../tags/react.md.md) |
-| 2025-06-05              | [Preserving and resetting state](https://github.com/aigle-levant/dev-notes/blob/main/React/State/Preserving%20and%20resetting%20state.md)               | [![](https://img.shields.io/badge/tag-react-b4bfb)](../tags/react.md.md) |
+| Title | Description |
+|-------|-------------|
+| [Navbar](Documentation/Component/Navbar.md) |  |
+| [NavbarTwo](Documentation/Component/NavbarTwo.md) |  |
+| [Components](Documentation/React/Components.md) |  |
+| [Conditionals](Documentation/React/Conditionals.md) |  |
+| [Event Handling](Documentation/React/Event Handling.md) |  |
+| [Hooks](Documentation/React/Hooks.md) |  |
+| [Props](Documentation/React/Props.md) |  |
+| [Questions](Documentation/React/Questions.md) |  |
+| [Practice - Tic Tac Toe](Documentation/React/Practice/Practice - Tic Tac Toe.md) |  |
+| [Tic Tac Toe](Documentation/React/Practice/Tic Tac Toe.md) |  |
+| [Input in React](Documentation/React/State/Input in React.md) |  |
+| [Preserving and resetting state](Documentation/React/State/Preserving and resetting state.md) |  |
+| [Pure functions](Documentation/React/State/Pure functions.md) |  |
+| [Queueing a series of status updates](Documentation/React/State/Queueing a series of status updates.md) |  |
+| [Reacting to input with state](Documentation/React/State/Reacting to input with state.md) |  |
+| [Rendering Lists](Documentation/React/State/Rendering Lists.md) |  |
+| [Rendering](Documentation/React/State/Rendering.md) |  |
+| [Sharing state](Documentation/React/State/Sharing state.md) |  |
+| [State behaving as a snapshot](Documentation/React/State/State behaving as a snapshot.md) |  |
+| [Structuring state](Documentation/React/State/Structuring state.md) |  |
+| [Updating objects in state](Documentation/React/State/Updating objects in state.md) |  |

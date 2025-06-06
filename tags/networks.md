@@ -1,13 +1,14 @@
-# Notes Tagged with `networks`
+# 🏷️ Networks Notes
 
-| Created on [YYYY-MM-DD] | title                                                                                                                       | tags                                                                           |
-|-------------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| 2025-04-21              | [DNS Query](https://github.com/aigle-levant/dev-notes/blob/main/Networks/Core/DNS/DNS%20query.md)                           | [![](https://img.shields.io/badge/tag-networks-b4bfb)](../tags/networks.md.md) |
-| 2025-04-21              | [DNS records](https://github.com/aigle-levant/dev-notes/blob/main/Networks/Core/DNS/DNS%20records.md)                       | [![](https://img.shields.io/badge/tag-networks-b4bfb)](../tags/networks.md.md) |
-| 2025-04-20              | [Domain Name System [DNS]](https://github.com/aigle-levant/dev-notes/blob/main/Networks/Core/DNS/Domain%20Name%20System.md) | [![](https://img.shields.io/badge/tag-networks-b4bfb)](../tags/networks.md.md) |
-| 2025-04-26              | [HTTP](https://github.com/aigle-levant/dev-notes/blob/main/Networks/Core/HTTP/HTTP.md)                                      | [![](https://img.shields.io/badge/tag-networks-b4bfb)](../tags/networks.md.md) |
-| 2025-04-26              | [HTTPS](https://github.com/aigle-levant/dev-notes/blob/main/Networks/Core/HTTP/HTTPS.md)                                    | [![](https://img.shields.io/badge/tag-networks-b4bfb)](../tags/networks.md.md) |
-| 2025-04-26              | [Status codes](https://github.com/aigle-levant/dev-notes/blob/main/Networks/Core/HTTP/Status%20codes.md)                    | [![](https://img.shields.io/badge/tag-networks-b4bfb)](../tags/networks.md.md) |
-| 2025-04-26              | [Internet](https://github.com/aigle-levant/dev-notes/blob/main/Networks/Core/Internet/Internet.md)                          | [![](https://img.shields.io/badge/tag-networks-b4bfb)](../tags/networks.md.md) |
-| 2025-04-26              | [Search Engine](https://github.com/aigle-levant/dev-notes/blob/main/Networks/Core/Internet/Search%20Engine.md)              | [![](https://img.shields.io/badge/tag-networks-b4bfb)](../tags/networks.md.md) |
-| 2025-04-26              | [Search Index](https://github.com/aigle-levant/dev-notes/blob/main/Networks/Core/Internet/Search%20Index.md)                | [![](https://img.shields.io/badge/tag-networks-b4bfb)](../tags/networks.md.md) |
+| Title | Description |
+|-------|-------------|
+| [Questions](Documentation/Networks/Questions.md) |  |
+| [DNS query](Documentation/Networks/Core/DNS/DNS query.md) |  |
+| [DNS records](Documentation/Networks/Core/DNS/DNS records.md) |  |
+| [Domain Name System](Documentation/Networks/Core/DNS/Domain Name System.md) |  |
+| [HTTP](Documentation/Networks/Core/HTTP/HTTP.md) |  |
+| [HTTPS](Documentation/Networks/Core/HTTP/HTTPS.md) |  |
+| [Status codes](Documentation/Networks/Core/HTTP/Status codes.md) |  |
+| [Internet](Documentation/Networks/Core/Internet/Internet.md) |  |
+| [Search Engine](Documentation/Networks/Core/Internet/Search Engine.md) |  |
+| [Search Index](Documentation/Networks/Core/Internet/Search Index.md) |  |
