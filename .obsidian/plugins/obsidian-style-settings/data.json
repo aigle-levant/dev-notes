@@ -1,4 +1,5 @@
 {
   "minimal-style@@base@@light": "#F9F9F7",
-  "minimal-style@@ax1@@light": "#2A6FD7"
+  "minimal-style@@ax1@@light": "#2A6FD7",
+  "minimal-advanced@@styled-scrollbars": true
 }

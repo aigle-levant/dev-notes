@@ -1,0 +1,19 @@
+- 1xx - Informational
+	- Request received, processing
+- 2xx - Success
+	- Request successfully received, understood, accepted
+	- 200 - OK [everything's fine]
+	- 201 - OK created [something was created]
+- 3xx - Redirect
+	- Further actions must be taken
+	- Redirection
+	- 301 - Moved to new URL [redirection needed]
+	- 304 - Not modified [website cached, but no changes]
+- 4xx - Client error
+	- Request doesn't have what server needs from client
+	- 400 - Bad request [incorrect data]
+	- 401 - Unauthorized [no token?]
+	- 404 - Not found [website not found]
+- 5xx - Server error
+	- Server failed to fulfil a valid request
+	- 500 - Internal server error

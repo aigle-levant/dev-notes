@@ -1,3 +1,5 @@
+## Beginning
+
 - **What is the library used by React to communicate with browsers?**: React-DOM
 - **What's the usage of fragments ``<> </>``?**: To group elements together without a wrapper node.
 
@@ -132,8 +134,20 @@ values to null.
 - **How do we have 2 child components communicate with each other?**: We declare the shared state [between the components] in their parent component.
 - **How do we collect data from multiple children?**: Let the parent component pass state back to children via props.
 - **How is event handling done when an event occurs in child and parent handles the state changes?**: A function is passed down from parent to child as props, which child will call upon event.
-
+- **What is the naming convention for props representing events?**: `onSomething`.
+- **What is the naming convention for functions handling events?**: `handleSomething`.
 ## Immutability
+- **Approaches to change data**:
+	- Mutate the data by directly changing its values.
+	- Replace the data with a copy that has the desired changes.
+- **Why is immutability desired?**:
+	- Avoiding direct mutation -> you can keep previous versions of data and reuse them later.
+		- Loading saves in games
+		- Undo-redo
+		- Version history in Docs, GitHub, etc.
+	- Performance friendly -> Doesn't re-render components unrelated to changed child components.
+
+> Skip re-rendering a component when props are unchanged by using [memo](https://react.dev/reference/react/memo)
 
 ## Finale
 

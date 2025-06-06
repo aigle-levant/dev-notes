@@ -14,7 +14,7 @@ tags:
 
 >Do, or die.
 
-- DNS client asks all the available DNS serversr.
+- DNS client asks all the available DNS servers.
 - **Outcome**: Get IP address or error
 - **Used in** : Consumer devices.
 #### Iterative DNS query

@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "63130a446775311a",
+        "id": "b69bfb7c02f536d2",
         "type": "tabs",
         "children": [
           {
-            "id": "c2e5438edff7ed4f",
+            "id": "0356c09dee06956a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Documentation/Component/Navbar.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Navbar"
             }
           }
         ]
@@ -109,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networks/Core/HTTP/HTTP.md",
+                "file": "ML/Algorithms/Asymptotic notations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from HTTP"
+              "title": "Outgoing links from Asymptotic notations"
             }
           },
           {
@@ -152,10 +166,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "React/Components.md"
+                "file": "Documentation/Component/Navbar.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Components"
+              "title": "File properties for Navbar"
             }
           },
           {
@@ -174,12 +188,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
-    "collapsed": true
+    "width": 272.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,53 +204,55 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "abc1c9c2de927def",
+  "active": "0356c09dee06956a",
   "lastOpenFiles": [
-    "ML/Maths/jupyter/week-1.ipynb",
-    "ML/Maths/jupyter/week-1",
-    "ML/Maths/jupyter",
-    "React/Tic Tac Toe.md",
-    "ML/Maths/Vectors.md",
-    "ML",
-    "ML/Maths",
-    "Networks/Core/Search Index.md",
-    "Networks/Core/Search Engine.md",
-    "Networks/Core/Internet.md",
-    "Networks/Core/HTTP/HTTPS.md",
-    "Networks/Core/HTTP/HTTP.md",
-    "Networks/Core/DNS/DNS records.md",
-    "Networks/Core/DNS/Domain Name System.md",
-    "Networks/Core/DNS/DNS query.md",
-    "Networks/Core/HTTP",
-    "Networks/Core/The Internet How Search Works.md",
+    "Documentation/Component/image.png",
+    "Clippings/MDN Web Docs.md",
+    "Documentation/Component/Navbar.md",
+    "Documentation/Component",
+    "Documentation",
+    "React/State/Preserving and resetting state.md",
     "Clippings",
-    "React/Event Handling.md",
-    "React/Components.md",
-    "React/react-projects/playlist/README.md",
-    "React/react-projects/playlist/src/components/ButtonStyle.jsx",
-    "React/react-projects/playlist/src/components/ButtonStyle.js",
-    "React/react-projects/playlist/src/GlobalStyle.jsx",
-    "React/react-projects/playlist/node_modules/@types/stylis/README.md",
-    "React/react-projects/playlist/node_modules/@types/stylis/package.json",
-    "React/react-projects/playlist/node_modules/css-to-react-native/LICENSE.md",
-    "React/react-projects/playlist/node_modules/css-to-react-native/README.md",
-    "React/react-projects/playlist/node_modules/shallowequal/README.md",
-    "React/react-projects/playlist/node_modules/camelize/README.md",
-    "React/react-projects/playlist/node_modules/camelize/CHANGELOG.md",
-    "React/react-projects/playlist/node_modules/color-name/README.md",
-    "React/react-projects/playlist/node_modules/argparse/README.md",
-    "React/react-projects/playlist/node_modules/argparse/CHANGELOG.md",
-    "React/react-projects/playlist/node_modules/yallist/README.md",
-    "React/react-projects/playlist/node_modules/lru-cache/README.md",
+    "Bookmarks",
+    "React/State/Sharing state.md",
+    "Untitled.canvas",
+    "ML/Algorithms/Searching/Binary search.md",
+    "ML/Algorithms/Sorting/Bubble sort.md",
+    "ML/Algorithms/Data structures.md",
+    "ML/Algorithms/Algorithms.md",
+    "React/TypeScript/Static Checking.md",
+    "Untitled.md",
+    "React/Practice/prac.ts",
+    "React/TypeScript/Untitled.md",
+    "React/TypeScript",
+    "React/State/Structuring state.md",
+    "React/Practice/prac.jsx",
+    "React/State/Queueing a series of status updates.md",
+    "React/State/Input in React.md",
+    "React/State/Updating objects in state.md",
+    "React/State/State behaving as a snapshot.md",
+    "React/State/Rendering Lists.md",
+    "React/State/Rendering.md",
+    "React/State/Reacting to input with state.md",
+    "React/State/Pure functions.md",
+    "React/Questions.md",
+    "React/Props.md",
+    "React/Practice/Tic Tac Toe.md",
+    "React/Practice/Practice - Tic Tac Toe.md",
+    "React/Conditionals.md",
+    "React/State/Pasted image 20250508132523.png",
+    "ML/Algorithms/Searching",
+    "ML/Algorithms/Sorting",
+    "ML/Algorithms/Searching/Pasted image 20250502105937.png",
+    "React/Effects",
+    "ML/Algorithms/Pasted image 20250502105856.png",
+    "Pasted image 20250502105918.png",
+    "Networks/Core/Untitled.canvas",
     "React/react-projects/playlist/src/assets/react.svg",
     "React/react-projects/playlist/public/vite.svg",
     "React/react-projects/playlist/--template/src/assets/react.svg",
     "React/react-projects/playlist/--template/public/vite.svg",
     "React/react-projects/vite-project/src/assets/react.svg",
-    "React/react-projects/vite-project/public/vite.svg",
-    "React/practice-file/src/assets/react.svg",
-    "React/practice-file/public/vite.svg",
-    "React/react-holder/practice-file/src/assets/react.svg",
-    "React/react-holder/practice-file/public/vite.svg"
+    "React/react-projects/vite-project/public/vite.svg"
   ]
 }

@@ -1,0 +1,13 @@
+- **What is a snapshot in the context of a component?**: JSX returned by the component at the moment the function is called.
+	- It is the snapshot of the UI.
+	- **What does it reflect?**: Component's state, props, event-handlers at the time React called the function.
+- You can't access current state after calling `setState()` in the same render.
+- **What happens during a re-rendering of a component?**:
+	- The function is called again.
+	- It returns a new JSX snapshot [a set of JSX with new updates].
+	- The screen's updated to match the snapshot returned.
+- **What doesn't change within a render?**: A state variable's value.
+	- The value is fixed when rendering. It never changes mid-render, even if you call `setState()` inside an event.
+	- **Why does a state variable's value not change?**: Since it's stored *outside* the component.
+- **What is to be recreated upon re-rendering a component?**: All variables and event-handler functions.
+	- They're all new now. [think, like a function re-running with new inputs.]
